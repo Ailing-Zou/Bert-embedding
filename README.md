@@ -4,12 +4,13 @@
 To extract bert embedding from text, we just want to get the embedding by bert.
 
 ## The background:
-bert as service is not suitable for my work requirement.
+Bert as service is not suitable for my work requirement.
 
 ## Where I collect these methods:
 from github list and google, the most related ones.
 
-## Method collection ( including some out of date method to give a whole description):
+## Method collection 
+( including some out of date method to give a whole description ) :
 ### 1) Bert-embedding: 
 
 https://github.com/imgarylai/bert-embedding you can use it by: 
