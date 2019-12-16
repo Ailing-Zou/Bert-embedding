@@ -12,9 +12,11 @@ from github list and google, the most related ones.
 ## Method collection ( including some out of date method to give a whole description):
 ### 1) Bert-embedding: 
 
-https://github.com/imgarylai/bert-embedding you can use it by: pip install bert-embedding
+https://github.com/imgarylai/bert-embedding you can use it by: 
 
-[It will probably the first one appearing in the related list, however ,it is deprecated because the author has no time to maintain it, its output shows some unreasonable points.]
+    pip install bert-embedding
+
+[It will probably the first one appearing in the related list. However ,it is deprecated because the author has no time to maintain it, its output shows some unreasonable points.]
 
 eg. an issue in bert-embedding
 
