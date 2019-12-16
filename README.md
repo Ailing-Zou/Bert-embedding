@@ -1,16 +1,16 @@
 # Bert-embedding
 
-##The purpose:
+## The purpose:
 To extract bert embedding from text, we just want to get the embedding by bert.
 
-##The background:
+## The background:
 bert as service is not suitable for my work requirement.
 
-##Where I collect these methods:
+## Where I collect these methods:
 from github list and google, the most related ones.
 
-##Method collection ( including some out of date method to give a whole description):
-###1) Bert-embedding: 
+## Method collection ( including some out of date method to give a whole description):
+### 1) Bert-embedding: 
 
 https://github.com/imgarylai/bert-embedding you can use it by: pip install bert-embedding
 [It will probably the first one appearing in the related list, however ,it is deprecated because the author has no time to maintain it, its output shows some unreasonable points.]
@@ -30,16 +30,20 @@ eg. an issue in bert-embedding
     
     Which one is exactly the word embedding for "火"?  The author doesn't give answer for this.
 
-###2) https://github.com/weiarqq/bert-embedding 
-   A. Implemented by tensorflow
-   B. Suitable for industrial use
-   C. Easy to use
+### 2) 
+   https://github.com/weiarqq/bert-embedding 
+   
+   - Implemented by tensorflow
+   
+   - Suitable for industrial use
+   
+   - Easy to use
 
 ###3) https://github.com/YC-wind
-   A. Based on bert as service
-   B. Implemented by tensorflow
+   - Based on bert as service
+   - Implemented by tensorflow
    
 ###4) https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
-   This is one simple tutorial for getting embedding from Chris McCormick and Nick Ryan.
-   The original version is jupyternook, I do some minor changes for my chinese usage, maybe you can download bert-word-embedding.py in this repository directly
+   - This is one simple tutorial for getting embedding from Chris McCormick and Nick Ryan.
+   The original version is jupyternook, I do some minor changes for my chinese usage, maybe you can download bert-word-embedding.py in this repository directly.
 
