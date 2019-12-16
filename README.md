@@ -28,22 +28,23 @@ eg. an issue in bert-embedding
     
     and it is followed by 3 768-dimension arrays.
     
-    Which one is exactly the word embedding for "火"?  The author doesn't give answer for this.
+    Which one is exactly the word embedding for "火"?  
+    
+    The author doesn't give answer for this.
 
 ### 2) 
    https://github.com/weiarqq/bert-embedding 
-   
    - Implemented by tensorflow
-   
-   - Suitable for industrial use
-   
+   - Suitable for industrial use  
    - Easy to use
 
-###3) https://github.com/YC-wind
+### 3) 
+   https://github.com/YC-wind
    - Based on bert as service
    - Implemented by tensorflow
    
-###4) https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
+### 4) 
+   https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
    - This is one simple tutorial for getting embedding from Chris McCormick and Nick Ryan.
    The original version is jupyternook, I do some minor changes for my chinese usage, maybe you can download bert-word-embedding.py in this repository directly.
 
