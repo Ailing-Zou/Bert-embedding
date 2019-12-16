@@ -13,12 +13,17 @@ Method collection ( including some out of date method to give a whole descriptio
 1) Bert-embedding: https://github.com/imgarylai/bert-embedding you can use it by: pip install bert-embedding
 [It will probably the first one appearing in the related list, however ,it is deprecated because the author has no time to maintain it, its output shows some unreasonable points.]
 eg. an issue in bert-embedding 
-    When using
+    When using 
+    
     bert_embedding = BertEmbedding(model='bert_12_768_12', dataset_name='wiki_cn')
+    
     res = bert_embedding(u'火箭险胜勇士')
     There comes 2 [UNK] for each Chinese character, like this:
+    
     [(['[UNK]', '火', '[UNK]'], ...)]
+    
     and it is followed by 3 768-dimension arrays.
+    
     Which one is exactly the word embedding for "火"?  The author doesn't give answer for this.
 
 2) https://github.com/weiarqq/bert-embedding 
