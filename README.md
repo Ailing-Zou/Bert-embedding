@@ -43,6 +43,7 @@ eg. an issue in bert-embedding
    
 ### 4) 
    https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/
-   - This is one simple tutorial for getting embedding from Chris McCormick and Nick Ryan.
-   The original version is jupyternook, I do some minor changes for my chinese usage, maybe you can download bert-word-embedding.py in this repository directly.
+   - This is one tutorial for getting embedding from Chris McCormick and Nick Ryan.
+   - Very simple and easy to scan.
+   - The original version is jupyternook, I do some minor changes for my chinese usage, maybe you can download bert-word-embedding.py in this repository directly.
 
